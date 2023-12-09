@@ -27,12 +27,10 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 #### Top Repositories
 
 
-<a href="https://github.com/alimuhammedak/github-readme-stats">
+<a href="https://github.com/alimuhammedak/OgrenciSecim">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alimuhammedak&repo=OgrenciSecim&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+
 
 <br />
 <br />
