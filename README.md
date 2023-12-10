@@ -35,4 +35,5 @@
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimuhammedak&theme=midnight-purple" alt="alimuhammedak" />
   </p> 
+  ![snake gif](https://github.com/alimuhammedak/alimuhammedak/blob/output/github-contribution-grid-snake.gif)
 </div>
