@@ -21,7 +21,7 @@
 
 <div align="center">
   <h3 align="center">Support</h3>
-  <a href="https://www.buymeacoffee.com/alimuhammedak">
+  <a href="https://www.buymeacoffee.com/developerkit">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alimuhammedak" />
   </a>
   <br>
