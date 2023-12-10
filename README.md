@@ -35,7 +35,4 @@
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alimuhammedak&theme=midnight-purple" alt="alimuhammedak" />
   </p> 
-  <p>
-    <img align="center" src="https://metrics.lecoq.io/alimuhammedak?template=classic&followup=1&languages=1&config.timezone=Europe%2FZurich" alt="alimuhammedak" />
-  </p> 
 </div>
